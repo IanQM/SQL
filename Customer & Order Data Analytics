@@ -1,8 +1,6 @@
 In this database that I am querying it has multiple tables and it's going to show how to quantify statistics about customer/order data. 
 
 
-
-
 #1. How many orders were placed in January? 
 SELECT COUNT(orderid)
 FROM BIT_DB.JanSales
